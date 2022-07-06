@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portafolio-tailwind-practice/static/css/main.8438bf7b.css",
+    "main.js": "/portafolio-tailwind-practice/static/js/main.cc6efc54.js",
+    "static/media/about.webp": "/portafolio-tailwind-practice/static/media/about.2c2bda9a46420b56d2b5.webp",
+    "static/media/banner-woman2.webp": "/portafolio-tailwind-practice/static/media/banner-woman2.484a3b40fee634e4b12f.webp",
+    "static/media/testimonial-2.webp": "/portafolio-tailwind-practice/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/p1.webp": "/portafolio-tailwind-practice/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/portafolio-tailwind-practice/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/testimonial-3.webp": "/portafolio-tailwind-practice/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/logo.svg": "/portafolio-tailwind-practice/static/media/logo.b521a898489cfa7dc3863d7e83be3cc1.svg",
+    "static/media/services.svg": "/portafolio-tailwind-practice/static/media/services.2d6c88f25842315ca095.svg",
+    "static/media/portfolio.svg": "/portafolio-tailwind-practice/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/testimonials.svg": "/portafolio-tailwind-practice/static/media/testimonials.07294ae9606e6d7ea071.svg",
+    "static/media/p3.webp": "/portafolio-tailwind-practice/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/portafolio-tailwind-practice/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/p4.webp": "/portafolio-tailwind-practice/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/portafolio-tailwind-practice/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/testimonial-1.webp": "/portafolio-tailwind-practice/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
+    "static/media/p2.webp": "/portafolio-tailwind-practice/static/media/p2.987c883e6e66df8a1228.webp",
+    "static/media/about.svg": "/portafolio-tailwind-practice/static/media/about.70a8290c961c47c208b5.svg",
+    "index.html": "/portafolio-tailwind-practice/index.html",
+    "main.8438bf7b.css.map": "/portafolio-tailwind-practice/static/css/main.8438bf7b.css.map",
+    "main.cc6efc54.js.map": "/portafolio-tailwind-practice/static/js/main.cc6efc54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8438bf7b.css",
+    "static/js/main.cc6efc54.js"
+  ]
+}
